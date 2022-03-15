@@ -1,0 +1,37 @@
+body
+{
+ background: rgb(110, 110, 182);
+
+ font-family: 'Open Sans Condensed', sans-serif;
+}
+.header_div
+{
+    background: pink;
+    color:red;
+}
+
+.header_div p
+{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Smooch Sans', sans-serif;
+}
+
+.main_div button
+{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.footer
+{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background:plum;
+    color:purple;
+    text-align:center;
+    text-shadow: 5px 5px 5px #5e2485;
+    line-height: 3;
+}
